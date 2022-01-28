@@ -38,6 +38,8 @@ spec:
             interfaces:
             - name: eno1
               macAddress: "E4:43:4B:F1:02:40"
+            - name: ens1f0
+              macAddress: "E4:43:4B:F1:02:40"
             config:
                interfaces:
                - name: eno1
